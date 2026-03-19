@@ -14,7 +14,7 @@ A Linux CLI tool to detect failed SSH login attempts and identify potential atta
 
 Linux system with: grep, awk, sort, uniq, head
 
-## Usage
+# Usage
 
 ### Show recent failed attempts
 
